@@ -5,4 +5,4 @@ Function cal() in module stats.py checks if the input list has 9 elemnts, if yes
 
 The test cases are in the test.py file using "unittest" module. 
 
-The inspiration of this idea was taken from the course project on freecodecamp.org 
+The inspiration was taken from the course project on freecodecamp.org 
