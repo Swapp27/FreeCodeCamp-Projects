@@ -23,4 +23,4 @@ Use Pandas to answer the following questions:
 
 Unit tests are written for you under `test.py`.
 
-****The inspiration was taken from the course project on freecodecamp.org****
+***The inspiration was taken from the course project on freecodecamp.org***
