@@ -40,3 +40,4 @@ Complete the following tasks:
 
 Any time a variable is set to 'None', make sure to set it to the correct code.
 
+***The inspiration was taken from the course project on freecodecamp.org***
