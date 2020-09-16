@@ -10,3 +10,6 @@ Use the data to complete the following tasks:
 Make sure the month labels on bottom start at "Jan" and the x and x axis are labeled correctly.
 
 #### Note : For each chart, make sure to use a copy of the data frame.
+
+
+***The inspiration was taken from the course project on freecodecamp.org***
