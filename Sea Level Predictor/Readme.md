@@ -1,5 +1,5 @@
 ## 4. Sea Level Predictor
-Anaylize a dataset of the global average sea level change since 1880. Use the data to predict the sea level change through year 2050.
+Anaylze a dataset of the global average sea level change since 1880. Use the data to predict the sea level change through year 2050.
 
 Use the data to complete the following tasks:
 * Use Pandas to import the data from `sea_level.csv`.
