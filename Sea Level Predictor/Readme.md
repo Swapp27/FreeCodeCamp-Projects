@@ -1,4 +1,4 @@
-## 4. Sea Level Predictor
+## 5. Sea Level Predictor
 Anaylze a dataset of the global average sea level change since 1880. Use the data to predict the sea level change through year 2050.
 
 Use the data to complete the following tasks:
