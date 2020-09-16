@@ -28,3 +28,9 @@ The data visualizations will help understand the patterns in visits and identify
 Analyze demographic data using Pandas given a dataset of demographic data that was extracted from the 1994 Census database.
 
 *The inspiration was taken from the course project on freeCodeCamp.org*
+
+
+## 4. Sea Level Predictor
+Anaylze a dataset of the global average sea level change since 1880. Use the data to predict the sea level change through year 2050.
+
+*The inspiration was taken from the course project on freeCodeCamp.org*
