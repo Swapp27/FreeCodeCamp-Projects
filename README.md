@@ -30,7 +30,7 @@ Analyze demographic data using Pandas given a dataset of demographic data that w
 *The inspiration was taken from the course project on freeCodeCamp.org*
 
 
-## 4. Sea Level Predictor
+## 5. Sea Level Predictor
 Anaylze a dataset of the global average sea level change since 1880. Use the data to predict the sea level change through year 2050.
 
 *The inspiration was taken from the course project on freeCodeCamp.org*
