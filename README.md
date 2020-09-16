@@ -8,3 +8,10 @@ Function cal() in module stats.py checks if the input list has 9 elemnts, if yes
 The test cases are in the test.py file using "unittest" module. 
 
 The inspiration was taken from the course project on freecodecamp.org 
+
+
+## 2. Medical Data Analysis
+In this project, we will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. 
+The dataset values were collected during medical examinations.
+
+The inspiration was taken from the course project on freecodecamp.org 
