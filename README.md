@@ -12,7 +12,7 @@ Function cal() in module stats.py checks if the input list has 9 elemnts, if yes
 In this project, we will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. 
 The dataset values were collected during medical examinations.
 
-****The inspiration was taken from the course project on freeCodeCamp.org 
+*The inspiration was taken from the course project on freeCodeCamp.org*
 
 
 ## 3. Time Series Visualizer
@@ -20,11 +20,11 @@ In this project we will visualize time series data using a line chart, bar chart
 We will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03.
 The data visualizations will help understand the patterns in visits and identify yearly and monthly growth.
 
-****The inspiration was taken from the course project on freeCodeCamp.org
+*The inspiration was taken from the course project on freeCodeCamp.org*
 
 
 ## 4. Demographic Data Analyzer
 
 Analyze demographic data using Pandas given a dataset of demographic data that was extracted from the 1994 Census database.
 
-****The inspiration was taken from the course project on freeCodeCamp.org
+*The inspiration was taken from the course project on freeCodeCamp.org*
